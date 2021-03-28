@@ -5,7 +5,9 @@ exports[`<Home /> should match snapshot 1`] = `
   <main
     class=""
   >
-    Home Page
+    <h1>
+      Home Page
+    </h1>
   </main>
 </div>
 `;
