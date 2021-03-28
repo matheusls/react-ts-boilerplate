@@ -1,5 +1,9 @@
 import { Main } from 'components';
 
-const Home = () => <Main>Home Page</Main>;
+const Home = () => (
+  <Main>
+    <h1>Home Page</h1>
+  </Main>
+);
 
 export default Home;
